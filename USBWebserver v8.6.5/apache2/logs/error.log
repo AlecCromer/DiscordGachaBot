@@ -1,0 +1,5 @@
+[Sun Jan 23 23:29:09.316656 2022] [mpm_winnt:notice] [pid 11840:tid 644] AH00455: Apache/2.4.41 (Win32) PHP/7.4.3 configured -- resuming normal operations
+[Sun Jan 23 23:29:09.316656 2022] [mpm_winnt:notice] [pid 11840:tid 644] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 23 23:29:09.316656 2022] [core:notice] [pid 11840:tid 644] AH00094: Command line: 'C:\\Users\\Alec\\Documents\\GitHub\\JavaPrograms\\my-waifu-disney-bot\\USBWebserver v8.6.5/apache2/bin/httpd_usbwv8.exe -d C:/Users/Alec/Documents/GitHub/JavaPrograms/my-waifu-disney-bot/USBWebserver v8.6.5/apache2'
+[Sun Jan 23 23:29:09.319649 2022] [mpm_winnt:notice] [pid 11840:tid 644] AH00418: Parent: Created child process 13164
+[Sun Jan 23 23:29:10.133649 2022] [mpm_winnt:notice] [pid 13164:tid 584] AH00354: Child: Starting 64 worker threads.
